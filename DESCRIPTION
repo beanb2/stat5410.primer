@@ -1,0 +1,18 @@
+Package: stat5410.primer
+Type: Package
+Title: Introduction to R Programming in Applied Spatial Statistics
+Version: 0.1.0
+Author: Brennan Bean
+Maintainer: Brennan Bean <brennan.bean@usu.edu>
+Description: The package is designed to provide solutions to introductory 
+    homework problems designed to measure a students proficiency in R before 
+    starting the course. The intent is not to discourage students from taking 
+    the course but to give them a more realistic view as to how much time
+    this course will take them given their prior programming knowledge. 
+License: AGPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10),
+    stats
+RoxygenNote: 7.1.2
